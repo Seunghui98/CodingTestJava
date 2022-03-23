@@ -1,7 +1,7 @@
 # CodingTestJava
 
 <details markdown="1">
-<summary><strong>📄 2021 카카오 채용연계형 인턴십 (프로그래머스)</summary></strong>
+<summary><strong>👩‍💻 2021 카카오 채용연계형 인턴십 (프로그래머스)</summary></strong>
 
 |      문제      | 레벨 |                           URL                            | 
 | :------------: | :--: | :------------------------------------------------------: |
@@ -16,7 +16,7 @@
 
 
 <details markdown="1">
-<summary><strong>📄 2021 KAKAO BLIND RECRUITMENT (프로그래머스)</summary></strong>
+<summary><strong>👩‍💻 2021 KAKAO BLIND RECRUITMENT (프로그래머스)</summary></strong>
 
 |      문제      | 레벨 |                           URL                            | 
 | :------------: | :--: | :------------------------------------------------------: |
@@ -33,7 +33,7 @@
 
 
 <details markdown="1">
-<summary><strong>📄 2020 KAKAO BLIND RECRUITMENT (프로그래머스)</summary></strong>
+<summary><strong>👩‍💻 2020 KAKAO BLIND RECRUITMENT (프로그래머스)</summary></strong>
 
 |      문제      | 레벨 |                           URL                            | 
 | :------------: | :--: | :------------------------------------------------------: |
@@ -50,7 +50,7 @@
 
 
 <details markdown="1">
-<summary><strong>📄 2020 카카오 인턴십 (프로그래머스)</strong></summary>
+<summary><strong>👩‍💻 2020 카카오 인턴십 (프로그래머스)</strong></summary>
 
 |         문제         | 레벨 |                           URL                            | 
 | :------------------: | :--: | :------------------------------------------------------: | 
@@ -66,7 +66,7 @@
 
 
 <details markdown="1">
-<summary><strong>📄 2019 KAKAO BLIND RECRUITMENT (프로그래머스)</summary></strong>
+<summary><strong>👩‍💻 2019 KAKAO BLIND RECRUITMENT (프로그래머스)</summary></strong>
 
 |      문제      | 레벨 |                           URL                            | 
 | :------------: | :--: | :------------------------------------------------------: |
