@@ -1,3 +1,6 @@
+// 2022. 03. 24. - 2021 카카오 채용 연계형 인턴십
+// 숫자 문자열과 영단어
+
 public class Solution_JHJ {
     public int solution(String s) {
         s = s.replaceAll("zero", "0");
