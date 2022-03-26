@@ -65,44 +65,6 @@ public class Solution_2_JHJ {
         return false;
     }
 
-    public static boolean BFS(char[][] map, int r, int c) {
-
-        int[] dr = {-1, 1, 0, 0}; // 좌상, 상, 우상, 좌, 우, 좌하, 하, 우하
-        int[] dc = {0, 0, -1, 1};
-
-        boolean[][] visited = new boolean[5][5];
-        Queue<Point> searchPoints = new LinkedList<Point>(); // 각 응시자의 위치 기준으로 탐색 가능한 범위
-        searchPoints.offer(new Point(r, c));
-        visited[r][c] = true;
-
-        while (!searchPoints.isEmpty()) {
-            Point p = searchPoints.poll();
-            for (int d = 0; d < 8; d++) {
-                int nr = p.r + dr[d];
-                int nc = p.c + dc[d];
-                int distance = Math.abs(r - nr) + Math.abs(c - nc); // 응시자의 위치와 다음 탐색할 위치와의 맨해튼 거리
-
-                // 범위를 벗어나거나 방문한 곳이라면 패스
-                if (nr < 0 || nr >= 5 || nc < 0 || nc >= 5 || visited[nr][nc] || distance > 2)
-                    continue;
-
-                // 맨해튼 거리 2 초과 거리두기가 지켜졌는지를 보장하기 위해서는
-                // 맨해튼 거리가 2 이하 거리두기 제한사항을 지켰는지에 관해 살펴보아야 한다.
-
-                // 다음 탐색 위치에 사람이 앉아있거나, 빈칸이라면
-                if (map[nr][nc] == 'P')
-                    return false;
-
-                // 다음 탐색 위치에 파티션이 위치한다면 그 다음 위치에 다른 응시자가 있어도 거리두기가 지켜진 것이다.
-                visited[nr][nc] = true;
-                searchPoints.offer(new Point(nr, nc));
-
-            }
-        }
-        // 응시자의 위치 기준 맨해튼 거리 내 아무 응시자가 없는 경우 (즉, 거리두기가 잘 지켜진 경우)
-        return true;
-    }
-
     private static class Point implements Comparable<Point> {
         int r;
         int c;
