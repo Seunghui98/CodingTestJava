@@ -7,7 +7,7 @@
 |      문제      | 레벨 |                           URL                            | 승희코드 | 호진 코드 |  
 | :------------: | :--: | :------------------------------------------------------: |:--:|:--:|    
 |  숫자 문자열과 영단어   |  1   | [문제](https://programmers.co.kr/learn/courses/30/lessons/81301) |[Code](https://github.com/Seunghui98/CodingTestJava/blob/main/2021_%EC%B9%B4%EC%B9%B4%EC%98%A4_%EC%B1%84%EC%9A%A9%EC%97%B0%EA%B3%84%ED%98%95_%EC%9D%B8%ED%84%B4%EC%8B%AD/Solution_1_LSH.java)     |[Code](https://github.com/Seunghui98/CodingTestJava/blob/main/2021_%EC%B9%B4%EC%B9%B4%EC%98%A4_%EC%B1%84%EC%9A%A9%EC%97%B0%EA%B3%84%ED%98%95_%EC%9D%B8%ED%84%B4%EC%8B%AD/Solution_1_JHJ.java)     |    
-|   거리두기 확인하기   |  2   | [문제](https://programmers.co.kr/learn/courses/30/lessons/81302) |     |     |      
+|   거리두기 확인하기   |  2   | [문제](https://programmers.co.kr/learn/courses/30/lessons/81302) | [Code](https://github.com/Seunghui98/CodingTestJava/blob/main/2021_%EC%B9%B4%EC%B9%B4%EC%98%A4_%EC%B1%84%EC%9A%A9%EC%97%B0%EA%B3%84%ED%98%95_%EC%9D%B8%ED%84%B4%EC%8B%AD/Solution_2_LSH.java)    |     |      
 |  표 편집     |  3   | [문제](https://programmers.co.kr/learn/courses/30/lessons/81303) |     |     |     
 | 미로 탈출 |  4   | [문제](https://programmers.co.kr/learn/courses/30/lessons/81304) |     |     |     
 |   시험장 나누기   |  5   | [문제](https://programmers.co.kr/learn/courses/30/lessons/81305) |     |     |    
