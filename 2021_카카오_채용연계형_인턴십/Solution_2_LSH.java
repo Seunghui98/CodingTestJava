@@ -4,7 +4,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
-public class Solution_2021_2 {
+public class Solution_2_LSH {
 
     public static void main(String[] args)  {
 
