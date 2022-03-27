@@ -16,3 +16,4 @@ public class Solution_JHJ {
         return Integer.parseInt(s);
     }
 }
+
