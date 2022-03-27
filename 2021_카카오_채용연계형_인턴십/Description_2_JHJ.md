@@ -119,7 +119,7 @@ public class Solution_2_JHJ {
         return answer;
     }
 
-/** 응시자 사이 거리가 2일 때, 거리두기 여부 확인 */
+    // 응시자 사이 거리가 2일 때, 거리두기 여부 확인
     private boolean isAvailable(char[][] map, Point p1, Point p2) {
 
         int nr = p1.r + 1;
