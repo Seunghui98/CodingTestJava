@@ -66,7 +66,7 @@
     - **세로**로, 일직선 상에서 **아래 방향**만 고려
     - **대각선** 상에서, 각 응시자의 행을 고정하고, **응시자의 열 위치를 바꿔** 고려
     
-  <img src = "./image/image1.jpg" height="100px" width="100px"/>
+  <img src = "./image/image1.jpg" height="200px" width="400px"/>
     
 
 ## 3. 코드  
