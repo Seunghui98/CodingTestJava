@@ -69,6 +69,7 @@
    
   <img src = "./image/image1.jpg" height="400px" width="700px"/>
     
+</br>
 
 ## 3. 코드  
 
