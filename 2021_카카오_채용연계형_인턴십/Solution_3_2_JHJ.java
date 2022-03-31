@@ -3,13 +3,8 @@ import java.util.Stack;
 
 class Solution {
 	public String solution(int n, int k, String[] cmd) {
-//		String answer = "";
-		LinkedList<Integer> table = new LinkedList<Integer>();
-		Stack<Integer> history = new Stack<Integer>();
 
-		for (int i = 0; i < n; i++) {
-			table.add(i);
-		}
+		Stack<Integer> history = new Stack<Integer>();
 
 		int curIdx = k;
 		for (String each : cmd) {
