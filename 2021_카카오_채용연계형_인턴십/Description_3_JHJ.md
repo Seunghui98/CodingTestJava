@@ -37,7 +37,7 @@
 </br>
 
 ## 3. 효율성 테스트 결과
-<img src="2021_카카오_채용연계형_인턴십/image/image2.PNG"/>
+<img src="https://github.com/Seunghui98/CodingTestJava/blob/d52310cc11b2195b45ce008070b9a1d9122abd20/2021_%EC%B9%B4%EC%B9%B4%EC%98%A4_%EC%B1%84%EC%9A%A9%EC%97%B0%EA%B3%84%ED%98%95_%EC%9D%B8%ED%84%B4%EC%8B%AD/image/image2.PNG"/>
 
 ## 4. 코드 
 
