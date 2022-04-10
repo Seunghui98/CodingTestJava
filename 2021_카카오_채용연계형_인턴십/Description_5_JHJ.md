@@ -41,7 +41,10 @@
 
 <img width = "300" height = "400" src = "https://github.com/Seunghui98/CodingTestJava/blob/08da6646f0caa3b5fc3d50d7523dbe3a175d50f6/2021_%EC%B9%B4%EC%B9%B4%EC%98%A4_%EC%B1%84%EC%9A%A9%EC%97%B0%EA%B3%84%ED%98%95_%EC%9D%B8%ED%84%B4%EC%8B%AD/image/%EC%8B%9C%ED%97%98%EC%9E%A5%EB%82%98%EB%88%84%EA%B8%B0_%EA%B2%B0%EA%B3%BC2.JPG">
 
-## 4. 코드 
+## 4. 효율성 개선 방법 - Parametric Search 사용
+<img width = "800" height = "400" src = "https://github.com/Seunghui98/CodingTestJava/blob/6a3ba8fa72d622ae45cdac39502e36123dd9fa64/2021_%EC%B9%B4%EC%B9%B4%EC%98%A4_%EC%B1%84%EC%9A%A9%EC%97%B0%EA%B3%84%ED%98%95_%EC%9D%B8%ED%84%B4%EC%8B%AD/image/Parametric%20Search.jpg">
+
+## 5. 코드 
 ### 1) Next permutation을 사용하지 않은 경우 
  ```java
 import java.util.ArrayList;
