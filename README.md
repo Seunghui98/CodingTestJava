@@ -21,8 +21,8 @@
 
 |      문제      | 레벨 |                           URL                            | 승희코드 | 호진 코드 |  
 | :------------: | :--: | :------------------------------------------------------: |:--:|:--:|    
-|  신규 아이디 추천   |  1   | [문제](https://programmers.co.kr/learn/courses/30/lessons/72410) |     |     |    
-|   메뉴 리뉴얼   |  2   | [문제](https://programmers.co.kr/learn/courses/30/lessons/72411) |     |     |    
+|  신규 아이디 추천   |  1   | [문제](https://programmers.co.kr/learn/courses/30/lessons/72410) |[Code](https://github.com/Seunghui98/CodingTestJava/blob/main/2021_KAKAO_BLIND_RECRUITMENT/Solution_1_LSH.java)     |     |    
+|   메뉴 리뉴얼   |  2   | [문제](https://programmers.co.kr/learn/courses/30/lessons/72411) |[Code](https://github.com/Seunghui98/CodingTestJava/blob/main/2021_KAKAO_BLIND_RECRUITMENT/Solution_2_LSH.java)     |     |    
 |  순위 검색     |  2   | [문제](https://programmers.co.kr/learn/courses/30/lessons/72412) |     |     |    
 | 합승 택시 요금 |  3   | [문제](https://programmers.co.kr/learn/courses/30/lessons/72413) |     |     |    
 |   광고 삽입   |  3   | [문제](https://programmers.co.kr/learn/courses/30/lessons/72414) |     |     |    
