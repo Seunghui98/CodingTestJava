@@ -169,7 +169,6 @@ public class Solution_2_JHJ {
 ## 4. 참고 자료
 - HashMap 정렬하는 법
 <br>
-
 ```java
 // Map.Entry의 내장함수 이용
 List<Map.Entry<String, Integer>> entryList = new LinkedList<>(map.entrySet());
