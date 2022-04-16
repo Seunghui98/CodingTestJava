@@ -2,6 +2,20 @@
 
 ## 카카오 기출
 <details markdown="1">
+<summary><strong>👩‍💻 2022 카카오 블라인드  인턴십 (프로그래머스)</summary></strong>
+
+|      문제      | 레벨 |                           URL                            | 승희코드  | 호진 코드 |  
+| :------------: | :--: | :------------------------------------------------------: |:--:|:--:|    
+|  신고 결과 받기   |  1   | [문제](https://programmers.co.kr/learn/courses/30/lessons/92334) |     |     |    
+|  k진수에서 소수 개수 구하기   |  2   | [문제](https://programmers.co.kr/learn/courses/30/lessons/92335) |     |     |      
+| 주차 요금 계산  |  2   | [문제](https://programmers.co.kr/learn/courses/30/lessons/92341) |     |     |      
+| 양궁대회 |  2   | [문제](https://programmers.co.kr/learn/courses/30/lessons/92342) |     |     |     
+|   양과 늑대    |  3   | [문제](https://programmers.co.kr/learn/courses/30/lessons/92343) |     |     |     
+| 파괴되지 않은 건물  |  3   | [문제](https://programmers.co.kr/learn/courses/30/lessons/92344) |     |     |    
+|   사라지는 발판   |  3   | [문제](https://programmers.co.kr/learn/courses/30/lessons/92345) |     |     |     
+
+
+<details markdown="1">
 <summary><strong>👩‍💻 2021 카카오 채용연계형 인턴십 (프로그래머스)</summary></strong>
 
 |      문제      | 레벨 |                           URL                            | 승희코드 | 호진 코드 |  
