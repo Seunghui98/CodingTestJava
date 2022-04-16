@@ -15,6 +15,8 @@
 |   사라지는 발판   |  3   | [문제](https://programmers.co.kr/learn/courses/30/lessons/92345) |     |     |     
 </details>
 
+---
+
 <details markdown="1">
 <summary><strong>👩‍💻 2021 카카오 채용연계형 인턴십 (프로그래머스)</summary></strong>
 
