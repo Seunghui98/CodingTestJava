@@ -42,7 +42,7 @@
 |   메뉴 리뉴얼   |  2   | [문제](https://programmers.co.kr/learn/courses/30/lessons/72411) |[Code](https://github.com/Seunghui98/CodingTestJava/blob/main/2021_KAKAO_BLIND_RECRUITMENT/Solution_2_LSH.java)     | [Code](https://github.com/Seunghui98/CodingTestJava/blob/5babb9b32244bc6b070b2cdbdf0fb2316a27ae33/2021_KAKAO_BLIND_RECRUITMENT/Solution_2_JHJ.java)   |    
 |  순위 검색     |  2   | [문제](https://programmers.co.kr/learn/courses/30/lessons/72412) |[Code](https://github.com/Seunghui98/CodingTestJava/blob/main/2021_KAKAO_BLIND_RECRUITMENT/Solution_3_LSH.java)     |     |    
 | 합승 택시 요금 |  3   | [문제](https://programmers.co.kr/learn/courses/30/lessons/72413) |[Code](https://github.com/Seunghui98/CodingTestJava/blob/main/2021_KAKAO_BLIND_RECRUITMENT/Solution_4_LSH.java)    |     |    
-|   광고 삽입   |  3   | [문제](https://programmers.co.kr/learn/courses/30/lessons/72414) |     |     |    
+|   광고 삽입   |  3   | [문제](https://programmers.co.kr/learn/courses/30/lessons/72414) |[Code](https://github.com/Seunghui98/CodingTestJava/blob/main/2021_KAKAO_BLIND_RECRUITMENT/Solution_5_LSH.java)     |     |    
 | 카드 짝 맞추기  |  3   | [문제](https://programmers.co.kr/learn/courses/30/lessons/72415) |     |     |    
 |   매출 하락 최소화    |  4   | [문제](https://programmers.co.kr/learn/courses/30/lessons/72416) |     |     |    
 
