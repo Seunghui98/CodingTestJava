@@ -9,7 +9,7 @@
 - DFS(조합) + 구현
     - DFS(조합)
         - query 조건에 -라는 조건 때문에 info 을 활용하여 언어, 직군, 경력, 소울 푸드로 만들 수 있는 쿼리문의 조합을 다 만든다.
-        - 예를 들어 “java backend junior pizza 150”의 경우 “——”, “java——”, “javabackend—”, ... ~ “javabackendjuniorpizzer”의 문자열 경우를 다 만든 후  해당 문자열을 key값, 점수를 value로 된 hashMap에 넣어준다.
+        - 예를 들어 “java backend junior pizza 150”의 경우 “——”, “java——”, “javabackend—”, ... ~ “javabackendjuniorpizza”의 문자열 경우를 다 만든 후  해당 문자열을 key값, 점수를 value로 된 hashMap에 넣어준다.
     - 구현
         - hashMap 안에 점수를 기준으로 오름차순 정렬을 한다.
         - 쿼리문을 하나씩 빼서 점수를 제외한 분을 “ and “을 “ “로, “-”을 “”으로 바꿔줘서 위에서 구한 모든 경우의 수 문자열의 형태와 동일하게 변경한다. 그리고 hashMap에서 해당 문자열과 같은 key값이 존재하는지 확인한다.
