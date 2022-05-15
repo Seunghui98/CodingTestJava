@@ -3,7 +3,7 @@
 
 import java.util.*;
 
-public class Kakao_2021B_lv2_2 {
+public class Kakao_2021B_lv2 {
     public static void main(String[] args) {
 
         String[] info = new String[]{"java backend junior pizza 150",
