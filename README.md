@@ -6,7 +6,7 @@
 
 |      문제      | 레벨 |                           URL                            | 승희코드  | 호진 코드 |  
 | :------------: | :--: | :------------------------------------------------------: |:--:|:--:|    
-|  신고 결과 받기   |  1   | [문제](https://programmers.co.kr/learn/courses/30/lessons/92334) |    |     |    
+|  신고 결과 받기   |  1   | [문제](https://programmers.co.kr/learn/courses/30/lessons/92334) |    |[Code](https://github.com/Seunghui98/CodingTestJava/blob/7dc551af8efea3c6427c19e2f5da87f671d6ead6/2022_KAKAO_BLIND_RECRUITMENT/Solution1_JHJ.java)   |    
 |  k진수에서 소수 개수 구하기   |  2   | [문제](https://programmers.co.kr/learn/courses/30/lessons/92335) |     |     |      
 | 주차 요금 계산  |  2   | [문제](https://programmers.co.kr/learn/courses/30/lessons/92341) |     |     |      
 | 양궁대회 |  2   | [문제](https://programmers.co.kr/learn/courses/30/lessons/92342) |     |     |     
