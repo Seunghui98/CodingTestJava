@@ -4,9 +4,9 @@
 <details markdown="1">
 <summary><strong>👩‍💻 2022 카카오 블라인드  인턴십 (프로그래머스)</summary></strong>
 
-|      문제      | 레벨 |                           URL                            | 승희코드  | 호진 코드 |  
+|      문제      | 레벨 |                           URL                            | 승희코드  | 호진 코드 |
 | :------------: | :--: | :------------------------------------------------------: |:--:|:--:|    
-|  신고 결과 받기   |  1   | [문제](https://programmers.co.kr/learn/courses/30/lessons/92334) |    |[Code](https://github.com/Seunghui98/CodingTestJava/blob/7dc551af8efea3c6427c19e2f5da87f671d6ead6/2022_KAKAO_BLIND_RECRUITMENT/Solution1_JHJ.java)   |    
+|  신고 결과 받기   |  1   | [문제](https://programmers.co.kr/learn/courses/30/lessons/92334) |    |[Code](https://github.com/Seunghui98/CodingTestJava/blob/7dc551af8efea3c6427c19e2f5da87f671d6ead6/2022_KAKAO_BLIND_RECRUITMENT/Solution1_JHJ.java), [설명](https://edlin.tistory.com/entry/Kakao-2022-Blind-Test-%EC%8B%A0%EA%B3%A0-%EA%B2%B0%EA%B3%BC-%EB%B0%9B%EA%B8%B0) |    
 |  k진수에서 소수 개수 구하기   |  2   | [문제](https://programmers.co.kr/learn/courses/30/lessons/92335) |     |     |      
 | 주차 요금 계산  |  2   | [문제](https://programmers.co.kr/learn/courses/30/lessons/92341) |     |     |      
 | 양궁대회 |  2   | [문제](https://programmers.co.kr/learn/courses/30/lessons/92342) |     |     |     
