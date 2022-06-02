@@ -2,7 +2,6 @@
 // 22. 06. 02 - 2021 카카오 블라인드 - 광고 삽입
 
 public class Solution_5 {
-
     public static void main(String[] args) {
         System.out.println(solution("99:59:59", "25:00:00",
                 new String[]{"69:59:59-89:59:59", "01:00:00-21:00:00", "79:59:59-99:59:59", "11:00:00-31:00:00"}));
