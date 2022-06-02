@@ -1,7 +1,7 @@
 
 // 22. 06. 02 - 2021 카카오 블라인드 - 광고 삽입
 
-public class Solution {
+public class Solution_5 {
 
     public static void main(String[] args) {
         System.out.println(solution("99:59:59", "25:00:00",
