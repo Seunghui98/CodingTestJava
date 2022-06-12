@@ -1,6 +1,6 @@
 // 카카오 2022 블라인드 - Lv.2 - k 진수에서 소수 개수 구하기
 
-public class Solution_2_JHJ {
+public class Solution2_JHJ {
     public static void main(String[] args) {
         System.out.println(solution(437674, 3));
     }
