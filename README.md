@@ -159,4 +159,3 @@
 <br>
 <br>
 
-#  해설 👉[노션 링크](https://www.notion.so/edlinjung/3def1767b8ce4e288c5dd27da496448d)
