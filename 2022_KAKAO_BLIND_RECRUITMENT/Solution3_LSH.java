@@ -7,12 +7,6 @@ class Solution {
 		int time = 0;
         int in_time = -1;
         boolean isOut = false;
-        public Park(){}
-		public Park(int time, int in_time) {
-			this.time = time;
-            this.in_time = in_time;
-		}
-		
 	}
     
     public int[] solution(int[] fees, String[] records) {
@@ -35,9 +29,9 @@ class Solution {
 	                park.isOut = false;
 	                inout.put(str[1], park);
 	            } else {
-	                int time = str_to_time(str[0]);
+	                int out_time = str_to_time(str[0]);
 	                Park park = inout.get(str[1]);
-	                int diff = time - park.in_time;
+	                int diff = out_time - park.in_time;
 	                park.time += diff; 
 	                park.isOut = true;
 	            }
@@ -57,7 +51,10 @@ class Solution {
 	                }
 	                System.out.println(answer[i]);
 	            }
-	       
+	        
+	    
+	        
+
 	        return answer;
 	    }
 	    
