@@ -17,7 +17,7 @@ class Solution {
     
     public int[] solution(int[] fees, String[] records) {
         
-         ArrayList<Integer> car = new ArrayList<Integer>();
+         ArrayList<String> car = new ArrayList<String>();
 	        HashMap<String, Park> inout = new HashMap<String, Park>();
 
 	        for(int i=0;i<records.length;i++){
@@ -28,7 +28,7 @@ class Solution {
 	                if(inout.containsKey(str[1])){
 	                    park = inout.get(str[1]);
 	                } else {
-	                    car.add(Integer.parseInt(str[1]));
+	                    car.add(str[1]);
 	                    park = new Park();
 	                }
 	                park.in_time = time;
@@ -47,30 +47,17 @@ class Solution {
 	            
 	
 	            for(int i=0;i<car.size();i++){
-	                String car_int = String.valueOf(car.get(i));
-	                String car_num = "";
-	                if(car_int.length() == 1){
-	                    car_num = "000";
-	                } else if(car_int.length() == 2){
-	                    car_num = "00";
-	                } else if(car_int.length() == 3){
-	                    car_num = "0";
-	                }
-	                car_num += car_int;
-
+	            	String car_num = car.get(i);
 	                if(inout.get(car_num).isOut){
 	                	answer[i] = cal_money(inout.get(car_num).time, fees);
 	                } else {
 	                    int in_time = inout.get(car_num).in_time;
 	                    int out_time = str_to_time("23:59");
-	                
 	                    answer[i] = cal_money(inout.get(car_num).time + out_time-in_time, fees);
 	                }
+	                System.out.println(answer[i]);
 	            }
-	        
-	    
-	        
-
+	       
 	        return answer;
 	    }
 	    
@@ -90,19 +77,6 @@ class Solution {
 	    
 	    public static int str_to_time(String t){
 	        String[] str = t.split(":");
-	        if(str[0].substring(0).equals("0")){
-	            str[0] = str[0].substring(1);
-	        }
-	        
-	        if(str[1].substring(0).equals("0")){
-	            str[1] = str[1].substring(1);
-	        }
-	        
-	        int time = 0;
-	        time += Integer.parseInt(str[0]) * 60;
-	        
-	        time += Integer.parseInt(str[1]);
-	        
-	        return time;
+	        return Integer.parseInt(str[0]) * 60 + Integer.parseInt(str[1]);
 	    }
 }
