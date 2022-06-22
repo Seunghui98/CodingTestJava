@@ -11,7 +11,7 @@
 | 주차 요금 계산  |  2   | [문제](https://programmers.co.kr/learn/courses/30/lessons/92341) |[Code](https://github.com/Seunghui98/CodingTestJava/blob/main/2022_KAKAO_BLIND_RECRUITMENT/Solution3_LSH.java), [설명](https://developer-ellen.tistory.com/162)     | [Code](https://github.com/Seunghui98/CodingTestJava/blob/4cb790e8e8ba8f81ff9327f2b0d1f97dd20e318a/2022_KAKAO_BLIND_RECRUITMENT/Solution3_JHJ.java)  |      
 | 양궁대회 |  2   | [문제](https://programmers.co.kr/learn/courses/30/lessons/92342) |[Code](https://github.com/Seunghui98/CodingTestJava/blob/main/2022_KAKAO_BLIND_RECRUITMENT/Solution4_LSH.java), [설명](https://developer-ellen.tistory.com/165)     |[Code](https://github.com/Seunghui98/CodingTestJava/blob/main/2022_KAKAO_BLIND_RECRUITMENT/Solution4_JHJ.java), [설명](https://edlin.tistory.com/entry/Kakao-2022-Blind-Test-양궁대회?category=935204)    |     
 |   양과 늑대    |  3   | [문제](https://programmers.co.kr/learn/courses/30/lessons/92343) | [Code](https://github.com/Seunghui98/CodingTestJava/blob/main/2022_KAKAO_BLIND_RECRUITMENT/Solution5_LSH.java), [설명](https://developer-ellen.tistory.com/166)    |     |     
-| 파괴되지 않은 건물  |  3   | [문제](https://programmers.co.kr/learn/courses/30/lessons/92344) |     |     |    
+| 파괴되지 않은 건물  |  3   | [문제](https://programmers.co.kr/learn/courses/30/lessons/92344) | [Code](https://github.com/Seunghui98/CodingTestJava/blob/main/2022_KAKAO_BLIND_RECRUITMENT/Solution6_LSH.java), [설명](https://developer-ellen.tistory.com/167)    |     |    
 |   사라지는 발판   |  3   | [문제](https://programmers.co.kr/learn/courses/30/lessons/92345) |     |     |     
 ---
 </details>
