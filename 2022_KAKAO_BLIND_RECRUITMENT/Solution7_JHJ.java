@@ -1,6 +1,6 @@
 // ... 테스트케잇 모두 통과 X ... 수정중
 
-public class Solution {
+public class Solution7_JHJ {
     public static void main(String[] args) {
         System.out.println(solution(new int[][]{{1, 1, 1}, {1, 1, 1}, {1, 1, 1}}
                 , new int[]{1, 0}
