@@ -2,7 +2,7 @@
 
 import java.util.*;
 
-class Programmers_전화번호 목록_JHJ {
+class Programmers_전화번호목록_JHJ {
     public boolean solution(String[] phone_book) {
         boolean answer = true;
 
