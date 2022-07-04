@@ -2,7 +2,7 @@
 
 import java.util.*; 
 
-class Solution {
+class Programmers_완주하지못한선수_JHJ {
     public String solution(String[] participant, String[] completion) {
         String answer = "";
         
