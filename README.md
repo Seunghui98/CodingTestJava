@@ -3,12 +3,14 @@
 ## 프로그래머스 코딩테스트 고득점 Kit
 <details markdown="1">
 <summary><strong> 해시 </summary></strong>
+
 |      문제      | 레벨 |                           URL                            | 승희코드 | 호진 코드 |  
 | :------------: | :--: | :------------------------------------------------------: |:--:|:--:|  
 |완주하지 못한 선수|1|https://programmers.co.kr/learn/courses/30/lessons/42576|||
 |전화번호 목록|2|https://programmers.co.kr/learn/courses/30/lessons/42577|||
 |위장|2|https://programmers.co.kr/learn/courses/30/lessons/42578|||
 |베스트앨범|3|https://programmers.co.kr/learn/courses/30/lessons/42579|||
+
 </details>
 
 ## 카카오 기출
