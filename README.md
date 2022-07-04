@@ -13,6 +13,138 @@
 
 </details>
 
+<details markdown="1">
+<summary><strong> 👩🏻‍💻 해시 </summary></strong>
+
+|      문제      | 레벨 |                           URL                            | 승희코드 | 호진 코드 |  
+| :------------: | :--: | :------------------------------------------------------: |:--:|:--:|  
+|완주하지 못한 선수|1|[문제](https://programmers.co.kr/learn/courses/30/lessons/42576)| | |
+|전화번호 목록|2|[문제](https://programmers.co.kr/learn/courses/30/lessons/42577)|  | |
+|위장|2|[문제](https://programmers.co.kr/learn/courses/30/lessons/42578)| | |
+|베스트앨범|3|[문제](https://programmers.co.kr/learn/courses/30/lessons/42579)|  | |
+
+</details>
+
+<details markdown="1">
+<summary><strong> 👩🏻‍💻 해시 </summary></strong>
+
+|      문제      | 레벨 |                           URL                            | 승희코드 | 호진 코드 |  
+| :------------: | :--: | :------------------------------------------------------: |:--:|:--:|  
+|완주하지 못한 선수|1|[문제](https://programmers.co.kr/learn/courses/30/lessons/42576)| | |
+|전화번호 목록|2|[문제](https://programmers.co.kr/learn/courses/30/lessons/42577)|  | |
+|위장|2|[문제](https://programmers.co.kr/learn/courses/30/lessons/42578)| | |
+|베스트앨범|3|[문제](https://programmers.co.kr/learn/courses/30/lessons/42579)|  | |
+
+</details>
+
+<details markdown="1">
+<summary><strong> 👩🏻‍💻 스택/큐 </summary></strong>
+
+|      문제      | 레벨 |                           URL                            | 승희코드 | 호진 코드 |  
+| :------------: | :--: | :------------------------------------------------------: |:--:|:--:|  
+|완주하지 못한 선수|1|[문제](https://programmers.co.kr/learn/courses/30/lessons/42576)| | |
+|전화번호 목록|2|[문제](https://programmers.co.kr/learn/courses/30/lessons/42577)|  | |
+|위장|2|[문제](https://programmers.co.kr/learn/courses/30/lessons/42578)| | |
+|베스트앨범|3|[문제](https://programmers.co.kr/learn/courses/30/lessons/42579)|  | |
+
+</details>
+
+<details markdown="1">
+<summary><strong> 👩🏻‍💻 힙 </summary></strong>
+
+|      문제      | 레벨 |                           URL                            | 승희코드 | 호진 코드 |  
+| :------------: | :--: | :------------------------------------------------------: |:--:|:--:|  
+|완주하지 못한 선수|1|[문제](https://programmers.co.kr/learn/courses/30/lessons/42576)| | |
+|전화번호 목록|2|[문제](https://programmers.co.kr/learn/courses/30/lessons/42577)|  | |
+|위장|2|[문제](https://programmers.co.kr/learn/courses/30/lessons/42578)| | |
+|베스트앨범|3|[문제](https://programmers.co.kr/learn/courses/30/lessons/42579)|  | |
+
+</details>
+
+<details markdown="1">
+<summary><strong> 👩🏻‍💻 정렬 </summary></strong>
+
+|      문제      | 레벨 |                           URL                            | 승희코드 | 호진 코드 |  
+| :------------: | :--: | :------------------------------------------------------: |:--:|:--:|  
+|완주하지 못한 선수|1|[문제](https://programmers.co.kr/learn/courses/30/lessons/42576)| | |
+|전화번호 목록|2|[문제](https://programmers.co.kr/learn/courses/30/lessons/42577)|  | |
+|위장|2|[문제](https://programmers.co.kr/learn/courses/30/lessons/42578)| | |
+|베스트앨범|3|[문제](https://programmers.co.kr/learn/courses/30/lessons/42579)|  | |
+
+</details>
+
+<details markdown="1">
+<summary><strong> 👩🏻‍💻 완전탐색 </summary></strong>
+
+|      문제      | 레벨 |                           URL                            | 승희코드 | 호진 코드 |  
+| :------------: | :--: | :------------------------------------------------------: |:--:|:--:|  
+|완주하지 못한 선수|1|[문제](https://programmers.co.kr/learn/courses/30/lessons/42576)| | |
+|전화번호 목록|2|[문제](https://programmers.co.kr/learn/courses/30/lessons/42577)|  | |
+|위장|2|[문제](https://programmers.co.kr/learn/courses/30/lessons/42578)| | |
+|베스트앨범|3|[문제](https://programmers.co.kr/learn/courses/30/lessons/42579)|  | |
+
+</details>
+
+<details markdown="1">
+<summary><strong> 👩🏻‍💻 탐욕법 </summary></strong>
+
+|      문제      | 레벨 |                           URL                            | 승희코드 | 호진 코드 |  
+| :------------: | :--: | :------------------------------------------------------: |:--:|:--:|  
+|완주하지 못한 선수|1|[문제](https://programmers.co.kr/learn/courses/30/lessons/42576)| | |
+|전화번호 목록|2|[문제](https://programmers.co.kr/learn/courses/30/lessons/42577)|  | |
+|위장|2|[문제](https://programmers.co.kr/learn/courses/30/lessons/42578)| | |
+|베스트앨범|3|[문제](https://programmers.co.kr/learn/courses/30/lessons/42579)|  | |
+
+</details>
+
+<details markdown="1">
+<summary><strong> 👩🏻‍💻 동적계획법 </summary></strong>
+
+|      문제      | 레벨 |                           URL                            | 승희코드 | 호진 코드 |  
+| :------------: | :--: | :------------------------------------------------------: |:--:|:--:|  
+|완주하지 못한 선수|1|[문제](https://programmers.co.kr/learn/courses/30/lessons/42576)| | |
+|전화번호 목록|2|[문제](https://programmers.co.kr/learn/courses/30/lessons/42577)|  | |
+|위장|2|[문제](https://programmers.co.kr/learn/courses/30/lessons/42578)| | |
+|베스트앨범|3|[문제](https://programmers.co.kr/learn/courses/30/lessons/42579)|  | |
+
+</details>
+
+<details markdown="1">
+<summary><strong> 👩🏻‍💻 깊이/너비 우선 탐색 </summary></strong>
+
+|      문제      | 레벨 |                           URL                            | 승희코드 | 호진 코드 |  
+| :------------: | :--: | :------------------------------------------------------: |:--:|:--:|  
+|완주하지 못한 선수|1|[문제](https://programmers.co.kr/learn/courses/30/lessons/42576)| | |
+|전화번호 목록|2|[문제](https://programmers.co.kr/learn/courses/30/lessons/42577)|  | |
+|위장|2|[문제](https://programmers.co.kr/learn/courses/30/lessons/42578)| | |
+|베스트앨범|3|[문제](https://programmers.co.kr/learn/courses/30/lessons/42579)|  | |
+
+</details>
+
+<details markdown="1">
+<summary><strong> 👩🏻‍💻 이분탐색 </summary></strong>
+
+|      문제      | 레벨 |                           URL                            | 승희코드 | 호진 코드 |  
+| :------------: | :--: | :------------------------------------------------------: |:--:|:--:|  
+|완주하지 못한 선수|1|[문제](https://programmers.co.kr/learn/courses/30/lessons/42576)| | |
+|전화번호 목록|2|[문제](https://programmers.co.kr/learn/courses/30/lessons/42577)|  | |
+|위장|2|[문제](https://programmers.co.kr/learn/courses/30/lessons/42578)| | |
+|베스트앨범|3|[문제](https://programmers.co.kr/learn/courses/30/lessons/42579)|  | |
+
+</details>
+
+<details markdown="1">
+<summary><strong> 👩🏻‍💻 그래프 </summary></strong>
+
+|      문제      | 레벨 |                           URL                            | 승희코드 | 호진 코드 |  
+| :------------: | :--: | :------------------------------------------------------: |:--:|:--:|  
+|완주하지 못한 선수|1|[문제](https://programmers.co.kr/learn/courses/30/lessons/42576)| | |
+|전화번호 목록|2|[문제](https://programmers.co.kr/learn/courses/30/lessons/42577)|  | |
+|위장|2|[문제](https://programmers.co.kr/learn/courses/30/lessons/42578)| | |
+|베스트앨범|3|[문제](https://programmers.co.kr/learn/courses/30/lessons/42579)|  | |
+
+</details>
+
 ## 카카오 기출
 <details markdown="1">
 <summary><strong>👩‍💻 2022 카카오 블라인드  인턴십 (프로그래머스)</summary></strong>
