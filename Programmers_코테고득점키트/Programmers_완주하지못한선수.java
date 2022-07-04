@@ -1,3 +1,5 @@
+// 22. 07. 04. 월 - 레벨 1 - 해시 - 완주하지 못한 선수 
+
 import java.util.*; 
 
 class Solution {
