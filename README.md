@@ -44,7 +44,7 @@
 
 |      문제      | 레벨 |                           URL                            | 승희 코드 | 호진 코드 |  
 | :------------: | :--: | :------------------------------------------------------: |:--:|:--:|  
-|완주하지 못한 선수|1|[문제](https://programmers.co.kr/learn/courses/30/lessons/42576)| | [Code](https://github.com/Seunghui98/CodingTestJava/blob/3f9228fe065d8c860a4fb7950aae23e85f86e586/Programmers_%EC%BD%94%ED%85%8C%EA%B3%A0%EB%93%9D%EC%A0%90%ED%82%A4%ED%8A%B8/Programmers_%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%EB%AA%BB%ED%95%9C%EC%84%A0%EC%88%98_JHJ.java)|
+|완주하지 못한 선수|1|[문제](https://programmers.co.kr/learn/courses/30/lessons/42576)| [Code](https://github.com/Seunghui98/CodingTestJava/blob/main/Programmers_%EC%BD%94%ED%85%8C%EA%B3%A0%EB%93%9D%EC%A0%90%ED%82%A4%ED%8A%B8/Programmers_%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%EB%AA%BB%ED%95%9C%EC%84%A0%EC%88%98_LSH.java)| [Code](https://github.com/Seunghui98/CodingTestJava/blob/3f9228fe065d8c860a4fb7950aae23e85f86e586/Programmers_%EC%BD%94%ED%85%8C%EA%B3%A0%EB%93%9D%EC%A0%90%ED%82%A4%ED%8A%B8/Programmers_%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%EB%AA%BB%ED%95%9C%EC%84%A0%EC%88%98_JHJ.java)|
 |전화번호 목록|2|[문제](https://programmers.co.kr/learn/courses/30/lessons/42577)|  |[Code](https://github.com/Seunghui98/CodingTestJava/blob/837f8a95815feba45eeebed0d81fec14ca2e6dda/Programmers_%EC%BD%94%ED%85%8C%EA%B3%A0%EB%93%9D%EC%A0%90%ED%82%A4%ED%8A%B8/Programmers_%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%EB%AA%A9%EB%A1%9D_JHJ.java) |
 |위장|2|[문제](https://programmers.co.kr/learn/courses/30/lessons/42578)| | |
 |베스트앨범|3|[문제](https://programmers.co.kr/learn/courses/30/lessons/42579)|  | |
