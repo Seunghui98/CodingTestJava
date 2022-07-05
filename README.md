@@ -4,12 +4,12 @@
 <details markdown="1">
 <summary><strong> 👩🏻‍💻 7월 2주차 </summary></strong>
 
-|      문제      | 레벨 |                           URL                            | 승희 코드 | 호진 코드 |  
-| :------------: | :--: | :------------------------------------------------------: |:--:|:--:|  
-|카드 게임|플5|[문제](https://www.acmicpc.net/problem/16566)| | |
-|전깃줄-2|플5|[문제](https://www.acmicpc.net/problem/2568)|  | |
-|철로|골2|[문제](https://www.acmicpc.net/problem/13334)| | |
-|스도쿠|골4|[문제](https://www.acmicpc.net/problem/2580)|  | |
+|      문제      | 레벨 |                           URL                            | 승희 코드 | 호진 코드 |  수진 코드 | 연의 코드 |
+| :------------: | :--: | :------------------------------------------------------: |:--:|:--:|  :--:|:--:|  
+|카드 게임|플5|[문제](https://www.acmicpc.net/problem/16566)| | |  | |
+|전깃줄-2|플5|[문제](https://www.acmicpc.net/problem/2568)|  | |  | |
+|철로|골2|[문제](https://www.acmicpc.net/problem/13334)| | |  | |
+|스도쿠|골4|[문제](https://www.acmicpc.net/problem/2580)|  | |  | |
 
 </details>
 
@@ -17,24 +17,24 @@
 <details markdown="1">
 <summary><strong> 👩🏻‍💻 7월 3주차 </summary></strong>
 
-|      문제      | 레벨 |                           URL                            | 승희 코드 | 호진 코드 |  
-| :------------: | :--: | :------------------------------------------------------: |:--:|:--:|  
-|엘리베이터|플5|[문제](https://www.acmicpc.net/problem/2593)| | |
-|RBY팡!|골2|[문제](https://www.acmicpc.net/problem/5577)|  | |
-|임계경로|플5|[문제](https://www.acmicpc.net/problem/1948)| | |
-|악덕영주혜유|골2|[문제](https://www.acmicpc.net/problem/20010)|  | |
+|      문제      | 레벨 |                           URL                            | 승희 코드 | 호진 코드 |  수진 코드 | 연의 코드 |
+| :------------: | :--: | :------------------------------------------------------: |:--:|:--:|  :--:|:--:|  
+|엘리베이터|플5|[문제](https://www.acmicpc.net/problem/2593)| | |  | |
+|RBY팡!|골2|[문제](https://www.acmicpc.net/problem/5577)|  | |  | |
+|임계경로|플5|[문제](https://www.acmicpc.net/problem/1948)| | |  | |
+|악덕영주혜유|골2|[문제](https://www.acmicpc.net/problem/20010)|  | |  | |
 
 </details>
 
 <details markdown="1">
 <summary><strong> 👩🏻‍💻 7월 4주차 </summary></strong>
 
-|      문제      | 레벨 |                           URL                            | 승희 코드 | 호진 코드 |  
-| :------------: | :--: | :------------------------------------------------------: |:--:|:--:|  
-|비용|플5|[문제](https://www.acmicpc.net/problem/2463)| | |
-|놀이공원|골2|[문제](https://www.acmicpc.net/problem/1561)|  | |
-|보석도둑|골2|[문제](https://www.acmicpc.net/problem/13334)| | |
-|스도쿠|골4|[문제](https://www.acmicpc.net/problem/2580)|  | |
+|      문제      | 레벨 |                           URL                            | 승희 코드 | 호진 코드 |  수진 코드 | 연의 코드 |
+| :------------: | :--: | :------------------------------------------------------: |:--:|:--:|  :--:|:--:|  
+|비용|플5|[문제](https://www.acmicpc.net/problem/2463)| | |  | |
+|놀이공원|골2|[문제](https://www.acmicpc.net/problem/1561)|  | |  | |
+|보석도둑|골2|[문제](https://www.acmicpc.net/problem/13334)| | |  | |
+|스도쿠|골4|[문제](https://www.acmicpc.net/problem/2580)|  | |  | |
 
 </details>
 
