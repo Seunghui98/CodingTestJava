@@ -1,5 +1,78 @@
 ## 프로그래머스 SQL 고득점 Kit
+<details markdown="1">
+<summary><strong> 💻 SELECT </summary></strong>
 
+|      문제      | 레벨 |                           URL                            | 승희 코드 | 호진 코드 |  
+| :------------: | :--: | :------------------------------------------------------: |:--:|:--:|  
+|모든 레코드 조회하기|1|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/59034)| | |
+|역순 정렬하기|1|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/59035)|  | |
+|아픈 동물 찾기|1|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/59036)| | |
+|어린 동물 찾기|1|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/59037)|  | |
+|동물의 아이디와 이름|1|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/59403)|  | |
+|여러 기준으로 정렬하기|1|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/59404)|  | |
+|상위 n개 레코드|1|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/59405)|  | |
+
+</details>
+
+<details markdown="1">
+<summary><strong> 💻 SUM, MAX, MIN </summary></strong>
+
+|      문제      | 레벨 |                           URL                            | 승희 코드 | 호진 코드 |  
+| :------------: | :--: | :------------------------------------------------------: |:--:|:--:|  
+|최댓값 구하기|1|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/59415)| | |
+|최솟값 구하기|2|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/59038)|  | |
+|동물 수 구하기|2|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/59406)| | |
+|중복 제거하기|2|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/59408)|  | |
+
+</details>
+
+<details markdown="1">
+<summary><strong> 💻 GROUP BY </summary></strong>
+
+|      문제      | 레벨 |                           URL                            | 승희 코드 | 호진 코드 |  
+| :------------: | :--: | :------------------------------------------------------: |:--:|:--:|  
+|고양이와 개는 몇 마리 있을까|2|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/59040)| | |
+|동명 동물 수 찾기|2|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/59041)|  | |
+|입양 시각 구하기|2|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/59412)| | |
+|입양 시각 구하기2|4|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/59413)|  | |
+
+</details>
+
+<details markdown="1">
+<summary><strong> 💻 IS NULL </summary></strong>
+
+|      문제      | 레벨 |                           URL                            | 승희 코드 | 호진 코드 |  
+| :------------: | :--: | :------------------------------------------------------: |:--:|:--:|  
+|이름이 없는 동물의 아이디|1|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/59039)| | |
+|이름이 있는 동물의 아이디|1|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/59407)|  | |
+|NULL 처리하기|2|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/59410)| | |
+
+</details>
+
+<details markdown="1">
+<summary><strong> 💻 JOIN </summary></strong>
+
+|      문제      | 레벨 |                           URL                            | 승희 코드 | 호진 코드 |  
+| :------------: | :--: | :------------------------------------------------------: |:--:|:--:|  
+|없어진 기록 찾기|3|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/59042)| | |
+|있었는데요 없었습니다|3|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/59043)|  | |
+|오랜 기간 보호한 동물(1)|3|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/59044)| | |
+|보호소에서 중성화한 동물|4|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/59045)|  | |
+
+</details>
+
+<details markdown="1">
+<summary><strong> 💻 String, Date </summary></strong>
+
+|      문제      | 레벨 |                           URL                            | 승희 코드 | 호진 코드 |  
+| :------------: | :--: | :------------------------------------------------------: |:--:|:--:|  
+|루시와 엘라 찾기|2|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/59046)| | |
+|이름에 el이 들어가는 동물 찾기|2|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/59047)|  | |
+|중성화 여부 파악하기|2|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/59409)| | |
+|오랜 기간 보호한 동물(2)|3|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/59411)|  | |
+|DATETIME에서 DATE 형 변환|2|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/59414)|  | |
+
+</details>
 
 ## 프로그래머스 코딩테스트 고득점 Kit
 <details markdown="1">
@@ -8,7 +81,7 @@
 |      문제      | 레벨 |                           URL                            | 승희 코드 | 호진 코드 |  
 | :------------: | :--: | :------------------------------------------------------: |:--:|:--:|  
 |완주하지 못한 선수|1|[문제](https://programmers.co.kr/learn/courses/30/lessons/42576)| [Code](https://github.com/Seunghui98/CodingTestJava/blob/main/Programmers_%EC%BD%94%ED%85%8C%EA%B3%A0%EB%93%9D%EC%A0%90%ED%82%A4%ED%8A%B8/Programmers_%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%EB%AA%BB%ED%95%9C%EC%84%A0%EC%88%98_LSH.java)| [Code](https://github.com/Seunghui98/CodingTestJava/blob/3f9228fe065d8c860a4fb7950aae23e85f86e586/Programmers_%EC%BD%94%ED%85%8C%EA%B3%A0%EB%93%9D%EC%A0%90%ED%82%A4%ED%8A%B8/Programmers_%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%EB%AA%BB%ED%95%9C%EC%84%A0%EC%88%98_JHJ.java)|
-|전화번호 목록|2|[문제](https://programmers.co.kr/learn/courses/30/lessons/42577)|[Code](https://github.com/Seunghui98/CodingTestJava/blob/main/Programmers_%EC%BD%94%ED%85%8C%EA%B3%A0%EB%93%9D%EC%A0%90%ED%82%A4%ED%8A%B8/Programmers_%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%EB%AA%A9%EB%A1%9D_LSH.java)  |[Code](https://github.com/Seunghui98/CodingTestJava/blob/837f8a95815feba45eeebed0d81fec14ca2e6dda/Programmers_%EC%BD%94%ED%85%8C%EA%B3%A0%EB%93%9D%EC%A0%90%ED%82%A4%ED%8A%B8/Programmers_%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%EB%AA%A9%EB%A1%9D_JHJ.java) |
+|전화번호 목록|2|[문제](https://programmers.co.kr/learn/courses/30/lessons/42577)|  |[Code](https://github.com/Seunghui98/CodingTestJava/blob/837f8a95815feba45eeebed0d81fec14ca2e6dda/Programmers_%EC%BD%94%ED%85%8C%EA%B3%A0%EB%93%9D%EC%A0%90%ED%82%A4%ED%8A%B8/Programmers_%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%EB%AA%A9%EB%A1%9D_JHJ.java) |
 |위장|2|[문제](https://programmers.co.kr/learn/courses/30/lessons/42578)| | |
 |베스트앨범|3|[문제](https://programmers.co.kr/learn/courses/30/lessons/42579)|  | |
 
