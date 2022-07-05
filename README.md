@@ -56,10 +56,10 @@
 
 |      문제      | 레벨 |                           URL                            | 승희 코드 | 호진 코드 |  
 | :------------: | :--: | :------------------------------------------------------: |:--:|:--:|  
-|완주하지 못한 선수|1|[문제](https://programmers.co.kr/learn/courses/30/lessons/42576)| | |
-|전화번호 목록|2|[문제](https://programmers.co.kr/learn/courses/30/lessons/42577)|  | |
-|위장|2|[문제](https://programmers.co.kr/learn/courses/30/lessons/42578)| | |
-|베스트앨범|3|[문제](https://programmers.co.kr/learn/courses/30/lessons/42579)|  | |
+|기능개발|2|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/42586)| | |
+|프린터|2|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/42587)|  | |
+|다리를 지나는 트럭|2|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/42583)| | |
+|주식가격|2|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/42584)|  | |
 
 </details>
 
@@ -68,10 +68,9 @@
 
 |      문제      | 레벨 |                           URL                            | 승희 코드 | 호진 코드 |  
 | :------------: | :--: | :------------------------------------------------------: |:--:|:--:|  
-|완주하지 못한 선수|1|[문제](https://programmers.co.kr/learn/courses/30/lessons/42576)| | |
-|전화번호 목록|2|[문제](https://programmers.co.kr/learn/courses/30/lessons/42577)|  | |
-|위장|2|[문제](https://programmers.co.kr/learn/courses/30/lessons/42578)| | |
-|베스트앨범|3|[문제](https://programmers.co.kr/learn/courses/30/lessons/42579)|  | |
+|더 맵게|2|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/42626)| | |
+|디스크 컨트롤러|3|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/42627)|  | |
+|이중우선순위큐|3|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/42628)| | |
 
 </details>
 
@@ -80,10 +79,9 @@
 
 |      문제      | 레벨 |                           URL                            | 승희 코드 | 호진 코드 |  
 | :------------: | :--: | :------------------------------------------------------: |:--:|:--:|  
-|완주하지 못한 선수|1|[문제](https://programmers.co.kr/learn/courses/30/lessons/42576)| | |
-|전화번호 목록|2|[문제](https://programmers.co.kr/learn/courses/30/lessons/42577)|  | |
-|위장|2|[문제](https://programmers.co.kr/learn/courses/30/lessons/42578)| | |
-|베스트앨범|3|[문제](https://programmers.co.kr/learn/courses/30/lessons/42579)|  | |
+|K번째수|1|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/42748)| | |
+|가장 큰 수|2|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/42746)|  | |
+|H-Index|2|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/42747)| | |
 
 </details>
 
@@ -92,10 +90,9 @@
 
 |      문제      | 레벨 |                           URL                            | 승희 코드 | 호진 코드 |  
 | :------------: | :--: | :------------------------------------------------------: |:--:|:--:|  
-|완주하지 못한 선수|1|[문제](https://programmers.co.kr/learn/courses/30/lessons/42576)| | |
-|전화번호 목록|2|[문제](https://programmers.co.kr/learn/courses/30/lessons/42577)|  | |
-|위장|2|[문제](https://programmers.co.kr/learn/courses/30/lessons/42578)| | |
-|베스트앨범|3|[문제](https://programmers.co.kr/learn/courses/30/lessons/42579)|  | |
+|모의고사|1|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/42840)| | |
+|소수찾기|2|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/42839)|  | |
+|카펫|2|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/42842)| | |
 
 </details>
 
@@ -104,10 +101,12 @@
 
 |      문제      | 레벨 |                           URL                            | 승희 코드 | 호진 코드 |  
 | :------------: | :--: | :------------------------------------------------------: |:--:|:--:|  
-|완주하지 못한 선수|1|[문제](https://programmers.co.kr/learn/courses/30/lessons/42576)| | |
-|전화번호 목록|2|[문제](https://programmers.co.kr/learn/courses/30/lessons/42577)|  | |
-|위장|2|[문제](https://programmers.co.kr/learn/courses/30/lessons/42578)| | |
-|베스트앨범|3|[문제](https://programmers.co.kr/learn/courses/30/lessons/42579)|  | |
+|체육복|1|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/42862)| | |
+|조이스틱|2|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/42860)|  | |
+|큰 수 만들기|2|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/42883)| | |
+|구명보트|2|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/42885)| | |
+|섬 연결하기|3|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/42861)|  | |
+|단속카메라|3|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/42884)| | |
 
 </details>
 
@@ -116,10 +115,10 @@
 
 |      문제      | 레벨 |                           URL                            | 승희 코드 | 호진 코드 |  
 | :------------: | :--: | :------------------------------------------------------: |:--:|:--:|  
-|완주하지 못한 선수|1|[문제](https://programmers.co.kr/learn/courses/30/lessons/42576)| | |
-|전화번호 목록|2|[문제](https://programmers.co.kr/learn/courses/30/lessons/42577)|  | |
-|위장|2|[문제](https://programmers.co.kr/learn/courses/30/lessons/42578)| | |
-|베스트앨범|3|[문제](https://programmers.co.kr/learn/courses/30/lessons/42579)|  | |
+|N으로 표현|3|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/42895)| | |
+|정수 삼각형|3|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/43105)|  | |
+|등굣길|3|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/42898)| | |
+|도둑질|4|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/42897)|  | |
 
 </details>
 
@@ -128,10 +127,10 @@
 
 |      문제      | 레벨 |                           URL                            | 승희 코드 | 호진 코드 |  
 | :------------: | :--: | :------------------------------------------------------: |:--:|:--:|  
-|완주하지 못한 선수|1|[문제](https://programmers.co.kr/learn/courses/30/lessons/42576)| | |
-|전화번호 목록|2|[문제](https://programmers.co.kr/learn/courses/30/lessons/42577)|  | |
-|위장|2|[문제](https://programmers.co.kr/learn/courses/30/lessons/42578)| | |
-|베스트앨범|3|[문제](https://programmers.co.kr/learn/courses/30/lessons/42579)|  | |
+|타겟 넘버|2|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/43165)| | |
+|네트워크|3|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/43162)|  | |
+|단어 변환|3|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/43163)| | |
+|여행경로|3|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/43164)|  | |
 
 </details>
 
@@ -140,10 +139,8 @@
 
 |      문제      | 레벨 |                           URL                            | 승희 코드 | 호진 코드 |  
 | :------------: | :--: | :------------------------------------------------------: |:--:|:--:|  
-|완주하지 못한 선수|1|[문제](https://programmers.co.kr/learn/courses/30/lessons/42576)| | |
-|전화번호 목록|2|[문제](https://programmers.co.kr/learn/courses/30/lessons/42577)|  | |
-|위장|2|[문제](https://programmers.co.kr/learn/courses/30/lessons/42578)| | |
-|베스트앨범|3|[문제](https://programmers.co.kr/learn/courses/30/lessons/42579)|  | |
+|입국심사|3|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/43238)| | |
+|징검다리|4|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/43236)|  | |
 
 </details>
 
@@ -152,10 +149,9 @@
 
 |      문제      | 레벨 |                           URL                            | 승희 코드 | 호진 코드 |  
 | :------------: | :--: | :------------------------------------------------------: |:--:|:--:|  
-|완주하지 못한 선수|1|[문제](https://programmers.co.kr/learn/courses/30/lessons/42576)| | |
-|전화번호 목록|2|[문제](https://programmers.co.kr/learn/courses/30/lessons/42577)|  | |
-|위장|2|[문제](https://programmers.co.kr/learn/courses/30/lessons/42578)| | |
-|베스트앨범|3|[문제](https://programmers.co.kr/learn/courses/30/lessons/42579)|  | |
+|가장 먼 노드|3|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/49189)| | |
+|순위|3|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/49191)|  | |
+|방의 개수|5|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/49190)| | |
 
 </details>
 
