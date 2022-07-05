@@ -1,6 +1,6 @@
 ## 프로그래머스 SQL 고득점 Kit
 <details markdown="1">
-<summary><strong> 💻 SELECT </summary></strong>
+<summary><strong> 👩🏼‍💻 SELECT </summary></strong>
 
 |      문제      | 레벨 |                           URL                            | 승희 코드 | 호진 코드 |  
 | :------------: | :--: | :------------------------------------------------------: |:--:|:--:|  
@@ -15,7 +15,7 @@
 </details>
 
 <details markdown="1">
-<summary><strong> 💻 SUM, MAX, MIN </summary></strong>
+<summary><strong> 👩🏼‍💻 SUM, MAX, MIN </summary></strong>
 
 |      문제      | 레벨 |                           URL                            | 승희 코드 | 호진 코드 |  
 | :------------: | :--: | :------------------------------------------------------: |:--:|:--:|  
@@ -27,7 +27,7 @@
 </details>
 
 <details markdown="1">
-<summary><strong> 💻 GROUP BY </summary></strong>
+<summary><strong> 👩🏼‍💻 GROUP BY </summary></strong>
 
 |      문제      | 레벨 |                           URL                            | 승희 코드 | 호진 코드 |  
 | :------------: | :--: | :------------------------------------------------------: |:--:|:--:|  
@@ -39,7 +39,7 @@
 </details>
 
 <details markdown="1">
-<summary><strong> 💻 IS NULL </summary></strong>
+<summary><strong> 👩🏼‍💻 IS NULL </summary></strong>
 
 |      문제      | 레벨 |                           URL                            | 승희 코드 | 호진 코드 |  
 | :------------: | :--: | :------------------------------------------------------: |:--:|:--:|  
@@ -50,7 +50,7 @@
 </details>
 
 <details markdown="1">
-<summary><strong> 💻 JOIN </summary></strong>
+<summary><strong> 👩🏼‍💻 JOIN </summary></strong>
 
 |      문제      | 레벨 |                           URL                            | 승희 코드 | 호진 코드 |  
 | :------------: | :--: | :------------------------------------------------------: |:--:|:--:|  
@@ -62,7 +62,7 @@
 </details>
 
 <details markdown="1">
-<summary><strong> 💻 String, Date </summary></strong>
+<summary><strong> 👩🏼‍💻 String, Date </summary></strong>
 
 |      문제      | 레벨 |                           URL                            | 승희 코드 | 호진 코드 |  
 | :------------: | :--: | :------------------------------------------------------: |:--:|:--:|  
