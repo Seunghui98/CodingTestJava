@@ -92,7 +92,7 @@
 
 |      문제      | 레벨 |                           URL                            | 승희 코드 | 호진 코드 |  
 | :------------: | :--: | :------------------------------------------------------: |:--:|:--:|  
-|기능개발|2|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/42586)| | |
+|기능개발|2|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/42586)| |[Code](https://github.com/Seunghui98/CodingTestJava/blob/main/Programmers_코테고득점키트/Programmers_기능개발_JHJ.java) |
 |프린터|2|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/42587)|  | |
 |다리를 지나는 트럭|2|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/42583)| | |
 |주식가격|2|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/42584)|  | |
@@ -115,7 +115,7 @@
 
 |      문제      | 레벨 |                           URL                            | 승희 코드 | 호진 코드 |  
 | :------------: | :--: | :------------------------------------------------------: |:--:|:--:|  
-|K번째수|1|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/42748)| | |
+|K번째수|1|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/42748)| |[Code](https://github.com/Seunghui98/CodingTestJava/blob/main/Programmers_코테고득점키트/Programmers_K번째수_JHJ.java) |
 |가장 큰 수|2|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/42746)|  | |
 |H-Index|2|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/42747)| | |
 
@@ -126,8 +126,8 @@
 
 |      문제      | 레벨 |                           URL                            | 승희 코드 | 호진 코드 |  
 | :------------: | :--: | :------------------------------------------------------: |:--:|:--:|  
-|모의고사|1|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/42840)| | |
-|소수찾기|2|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/42839)|  | |
+|모의고사|1|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/42840)| |[Code](https://github.com/Seunghui98/CodingTestJava/blob/main/Programmers_코테고득점키트/Programmers_모의고사_JHJ.java) |
+|소수찾기|2|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/42839)|  |[Code](https://github.com/Seunghui98/CodingTestJava/blob/main/Programmers_코테고득점키트/Programmers_소수찾기_JHJ.java) |
 |카펫|2|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/42842)| | |
 
 </details>
@@ -163,8 +163,8 @@
 
 |      문제      | 레벨 |                           URL                            | 승희 코드 | 호진 코드 |  
 | :------------: | :--: | :------------------------------------------------------: |:--:|:--:|  
-|타겟 넘버|2|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/43165)| | |
-|네트워크|3|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/43162)|  | |
+|타겟 넘버|2|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/43165)| |[Code](https://github.com/Seunghui98/CodingTestJava/blob/main/Programmers_코테고득점키트/Programmers_타겟넘버_JHJ.java) |
+|네트워크|3|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/43162)|  |[Code](https://github.com/Seunghui98/CodingTestJava/blob/main/Programmers_코테고득점키트/Programmers_네트워크_JHJ.java) |
 |단어 변환|3|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/43163)| | |
 |여행경로|3|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/43164)|  | |
 
