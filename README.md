@@ -104,7 +104,7 @@
 
 |      문제      | 레벨 |                           URL                            | 승희 코드 | 호진 코드 |  
 | :------------: | :--: | :------------------------------------------------------: |:--:|:--:|  
-|더 맵게|2|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/42626)| | |
+|더 맵게|2|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/42626)|[Code](https://github.com/Seunghui98/CodingTestJava/blob/main/Programmers_%EC%BD%94%ED%85%8C%EA%B3%A0%EB%93%9D%EC%A0%90%ED%82%A4%ED%8A%B8/Programmers_%EB%8D%94%EB%A7%B5%EA%B2%8C_LSH.java) | |
 |디스크 컨트롤러|3|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/42627)|  | |
 |이중우선순위큐|3|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/42628)| | |
 
