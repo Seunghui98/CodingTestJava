@@ -165,7 +165,7 @@
 | :------------: | :--: | :------------------------------------------------------: |:--:|:--:|  
 |타겟 넘버|2|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/43165)| |[Code](https://github.com/Seunghui98/CodingTestJava/blob/main/Programmers_코테고득점키트/Programmers_타겟넘버_JHJ.java) |
 |네트워크|3|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/43162)|  |[Code](https://github.com/Seunghui98/CodingTestJava/blob/main/Programmers_코테고득점키트/Programmers_네트워크_JHJ.java) |
-|단어 변환|3|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/43163)| | |
+|단어 변환|3|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/43163)| |[Code](https://github.com/Seunghui98/CodingTestJava/blob/main/Programmers_코테고득점키트/Programmers_단어변환_JHJ.java) |
 |여행경로|3|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/43164)|  | |
 
 </details>
