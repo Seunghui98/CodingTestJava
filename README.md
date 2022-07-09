@@ -115,7 +115,7 @@
 
 |      문제      | 레벨 |                           URL                            | 승희 코드 | 호진 코드 |  
 | :------------: | :--: | :------------------------------------------------------: |:--:|:--:|  
-|K번째수|1|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/42748)| |[Code](https://github.com/Seunghui98/CodingTestJava/blob/main/Programmers_코테고득점키트/Programmers_K번째수_JHJ.java) |
+|K번째수|1|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/42748)|[Code](https://github.com/Seunghui98/CodingTestJava/blob/main/Programmers_%EC%BD%94%ED%85%8C%EA%B3%A0%EB%93%9D%EC%A0%90%ED%82%A4%ED%8A%B8/Programmers_K%EB%B2%88%EC%A7%B8%EC%88%98_LSH.java) |[Code](https://github.com/Seunghui98/CodingTestJava/blob/main/Programmers_코테고득점키트/Programmers_K번째수_JHJ.java) |
 |가장 큰 수|2|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/42746)|  | |
 |H-Index|2|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/42747)| | |
 
