@@ -246,7 +246,7 @@
 
 |      문제      | 레벨 |                           URL                            | 승희코드  | 호진 코드 |  
 | :------------: | :--: | :------------------------------------------------------: |:--:|:--:|    
-|  문자열 압축   |  2   | [문제](https://programmers.co.kr/learn/courses/30/lessons/60057) |     |     |    
+|  문자열 압축   |  2   | [문제](https://programmers.co.kr/learn/courses/30/lessons/60057) |     |[Code](https://github.com/Seunghui98/CodingTestJava/blob/e47f3d84e49645f2ffe275f2cfa66b70e052267f/2020_KAKAO_BLIND_RECRUITMENT/Solution_1_JHJ.java)     |    
 |   괄호 변환    |  2   | [문제](https://programmers.co.kr/learn/courses/30/lessons/60058) |     |     |      
 | 자물쇠와 열쇠  |  3   | [문제](https://programmers.co.kr/learn/courses/30/lessons/60059) |     |     |      
 | 기둥과 보 설치 |  3   | [문제](https://programmers.co.kr/learn/courses/30/lessons/60061) |     |     |     
