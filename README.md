@@ -126,7 +126,7 @@
 
 |      문제      | 레벨 |                           URL                            | 승희 코드 | 호진 코드 |  
 | :------------: | :--: | :------------------------------------------------------: |:--:|:--:|  
-|모의고사|1|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/42840)| |[Code](https://github.com/Seunghui98/CodingTestJava/blob/main/Programmers_코테고득점키트/Programmers_모의고사_JHJ.java) |
+|모의고사|1|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/42840)|[Code](https://github.com/Seunghui98/CodingTestJava/blob/main/Programmers_%EC%BD%94%ED%85%8C%EA%B3%A0%EB%93%9D%EC%A0%90%ED%82%A4%ED%8A%B8/Programmers_%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC_LSH.java) |[Code](https://github.com/Seunghui98/CodingTestJava/blob/main/Programmers_코테고득점키트/Programmers_모의고사_JHJ.java) |
 |소수찾기|2|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/42839)|  |[Code](https://github.com/Seunghui98/CodingTestJava/blob/main/Programmers_코테고득점키트/Programmers_소수찾기_JHJ.java) |
 |카펫|2|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/42842)| | |
 
