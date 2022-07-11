@@ -163,7 +163,7 @@
 
 |      문제      | 레벨 |                           URL                            | 승희 코드 | 호진 코드 |  
 | :------------: | :--: | :------------------------------------------------------: |:--:|:--:|  
-|타겟 넘버|2|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/43165)| |[Code](https://github.com/Seunghui98/CodingTestJava/blob/main/Programmers_코테고득점키트/Programmers_타겟넘버_JHJ.java) |
+|타겟 넘버|2|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/43165)|[Code](https://github.com/Seunghui98/CodingTestJava/blob/main/Programmers_%EC%BD%94%ED%85%8C%EA%B3%A0%EB%93%9D%EC%A0%90%ED%82%A4%ED%8A%B8/Programmers_%ED%83%80%EA%B2%9F%EB%84%98%EB%B2%84_LSH.java) |[Code](https://github.com/Seunghui98/CodingTestJava/blob/main/Programmers_코테고득점키트/Programmers_타겟넘버_JHJ.java) |
 |네트워크|3|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/43162)|  |[Code](https://github.com/Seunghui98/CodingTestJava/blob/main/Programmers_코테고득점키트/Programmers_네트워크_JHJ.java) |
 |단어 변환|3|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/43163)| |[Code](https://github.com/Seunghui98/CodingTestJava/blob/main/Programmers_코테고득점키트/Programmers_단어변환_JHJ.java) |
 |여행경로|3|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/43164)|  | |
