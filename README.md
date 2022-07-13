@@ -1,5 +1,5 @@
 ## 프로그래머스 SQL 고득점 Kit
-<details markdown="1">
+<details markdown="1"> 
 <summary><strong> 👩🏼‍💻 SELECT </summary></strong> 
 
 |      문제      | 레벨 |                           URL                            | 승희 코드 | 호진 코드 |  
