@@ -185,7 +185,7 @@
 
 |      문제      | 레벨 |                           URL                            | 승희 코드 | 호진 코드 |  
 | :------------: | :--: | :------------------------------------------------------: |:--:|:--:|  
-|가장 먼 노드|3|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/49189)| | |
+|가장 먼 노드|3|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/49189)|[Code](https://github.com/Seunghui98/CodingTestJava/blob/main/Programmers_%EC%BD%94%ED%85%8C%EA%B3%A0%EB%93%9D%EC%A0%90%ED%82%A4%ED%8A%B8/Programmers_%EA%B0%80%EC%9E%A5%EB%A8%BC%EB%85%B8%EB%93%9C_LSH.java) | |
 |순위|3|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/49191)|  | |
 |방의 개수|5|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/49190)| | |
 
