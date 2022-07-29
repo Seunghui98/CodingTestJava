@@ -4,9 +4,9 @@
 
 |      문제      | 레벨 |                           URL                            | 승희 코드 | 호진 코드 |  
 | :------------: | :--: | :------------------------------------------------------: |:--:|:--:|  
-|모든 레코드 조회하기|1|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/59034)| | |
-|역순 정렬하기|1|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/59035)|  | |
-|아픈 동물 찾기|1|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/59036)| | |
+|모든 레코드 조회하기|1|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/59034)|[Code](https://github.com/Seunghui98/CodingTestJava/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%20SQL%20%EA%B3%A0%EB%93%9D%EC%A0%90%20Kit/%EB%AA%A8%EB%93%A0%20%EB%A0%88%EC%BD%94%EB%93%9C%20%EC%A1%B0%ED%9A%8C%ED%95%98%EA%B8%B0_LSH.sql) | |
+|역순 정렬하기|1|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/59035)|[Code](https://github.com/Seunghui98/CodingTestJava/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%20SQL%20%EA%B3%A0%EB%93%9D%EC%A0%90%20Kit/%EC%97%AD%EC%88%9C%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0_LSH.sql)  | |
+|아픈 동물 찾기|1|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/59036)|[Code](https://github.com/Seunghui98/CodingTestJava/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%20SQL%20%EA%B3%A0%EB%93%9D%EC%A0%90%20Kit/%EC%95%84%ED%94%88%20%EB%8F%99%EB%AC%BC%20%EC%B0%BE%EA%B8%B0.sql) | |
 |어린 동물 찾기|1|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/59037)|  | |
 |동물의 아이디와 이름|1|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/59403)|  | |
 |여러 기준으로 정렬하기|1|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/59404)|  | |
