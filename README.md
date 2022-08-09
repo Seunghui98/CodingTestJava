@@ -19,10 +19,10 @@
 
 |      문제      | 레벨 |                           URL                            | 승희 코드 | 호진 코드 |  
 | :------------: | :--: | :------------------------------------------------------: |:--:|:--:|  
-|최댓값 구하기|1|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/59415)| | |
-|최솟값 구하기|2|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/59038)|  | |
-|동물 수 구하기|2|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/59406)| | |
-|중복 제거하기|2|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/59408)|  | |
+|최댓값 구하기|1|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/59415)|[Code](https://github.com/Seunghui98/CodingTestJava/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%20SQL%20%EA%B3%A0%EB%93%9D%EC%A0%90%20Kit/%EC%B5%9C%EB%8C%93%EA%B0%92%20%EA%B5%AC%ED%95%98%EA%B8%B0.sql) | |
+|최솟값 구하기|2|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/59038)|[Code](https://github.com/Seunghui98/CodingTestJava/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%20SQL%20%EA%B3%A0%EB%93%9D%EC%A0%90%20Kit/%EC%B5%9C%EC%86%9F%EA%B0%92%20%EA%B5%AC%ED%95%98%EA%B8%B0.sql)  | |
+|동물 수 구하기|2|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/59406)|[Code](https://github.com/Seunghui98/CodingTestJava/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%20SQL%20%EA%B3%A0%EB%93%9D%EC%A0%90%20Kit/%EB%8F%99%EB%AC%BC%20%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0.sql) | |
+|중복 제거하기|2|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/59408)|[Code](https://github.com/Seunghui98/CodingTestJava/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%20SQL%20%EA%B3%A0%EB%93%9D%EC%A0%90%20Kit/%EC%A4%91%EB%B3%B5%20%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0.sql)  | |
 
 </details>
 
