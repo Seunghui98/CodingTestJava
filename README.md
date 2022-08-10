@@ -31,10 +31,10 @@
 
 |      문제      | 레벨 |                           URL                            | 승희 코드 | 호진 코드 |  
 | :------------: | :--: | :------------------------------------------------------: |:--:|:--:|  
-|고양이와 개는 몇 마리 있을까|2|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/59040)| | |
-|동명 동물 수 찾기|2|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/59041)|  | |
-|입양 시각 구하기|2|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/59412)| | |
-|입양 시각 구하기2|4|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/59413)|  | |
+|고양이와 개는 몇 마리 있을까|2|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/59040)|[Code](https://github.com/Seunghui98/CodingTestJava/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%20SQL%20%EA%B3%A0%EB%93%9D%EC%A0%90%20Kit/%EA%B3%A0%EC%96%91%EC%9D%B4%EC%99%80%EA%B0%9C%EB%8A%94%EB%AA%87%EB%A7%88%EB%A6%AC%EC%9E%88%EC%9D%84%EA%B9%8C.sql) | |
+|동명 동물 수 찾기|2|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/59041)|[Code](https://github.com/Seunghui98/CodingTestJava/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%20SQL%20%EA%B3%A0%EB%93%9D%EC%A0%90%20Kit/%EB%8F%99%EB%AA%85%20%EB%8F%99%EB%AC%BC%20%EC%88%98%20%EC%B0%BE%EA%B8%B0.sql)  | |
+|입양 시각 구하기|2|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/59412)|[Code](https://github.com/Seunghui98/CodingTestJava/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%20SQL%20%EA%B3%A0%EB%93%9D%EC%A0%90%20Kit/%EC%9E%85%EC%96%91%20%EC%8B%9C%EA%B0%81%20%EA%B5%AC%ED%95%98%EA%B8%B0.sql) | |
+|입양 시각 구하기2|4|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/59413)|[Code](https://github.com/Seunghui98/CodingTestJava/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%20SQL%20%EA%B3%A0%EB%93%9D%EC%A0%90%20Kit/%EC%9E%85%EC%96%91%20%EC%8B%9C%EA%B0%81%20%EA%B5%AC%ED%95%98%EA%B8%B02.sql)  | |
 
 </details>
 
