@@ -45,7 +45,7 @@
 | :------------: | :--: | :------------------------------------------------------: |:--:|:--:|  
 |이름이 없는 동물의 아이디|1|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/59039)| | |
 |이름이 있는 동물의 아이디|1|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/59407)|  | |
-|NULL 처리하기|2|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/59410)| | |
+|NULL 처리하기|2|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/59410)|[Code](https://github.com/Seunghui98/CodingTestJava/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%20SQL%20%EA%B3%A0%EB%93%9D%EC%A0%90%20Kit/NULL%20%EC%B2%98%EB%A6%AC%ED%95%98%EA%B8%B0.sql) | |
 
 </details>
 
