@@ -198,7 +198,7 @@
 
 |      문제      | 레벨 |                           URL                            | 승희 코드 | 호진 코드 |  
 | :------------: | :--: | :------------------------------------------------------: |:--:|:--:|  
-|성격유형 검사하기|1|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/118666)|| |
+|성격유형 검사하기|1|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/118666)|| [Code](2022_KAKAO_TECH_INTERNSHIP/Solution1_JHJ.java) |
 |두 큐 합 같게 만들기|2|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/118667)|  | |
 |코딩 테스트 공부|3|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/118668)| | |
 |등산코스 정복하기|3|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/118669)| | |
